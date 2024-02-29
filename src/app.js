@@ -1,6 +1,6 @@
 import express from "express";
 import morgan from "morgan";
-// import fileUpload from "express-fileupload";
+import fileUpload from "express-fileupload";
 import ejs from "ejs";
 import path from "path";
 
